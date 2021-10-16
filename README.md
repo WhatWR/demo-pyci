@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/your_acctid/demo-pyci.svg?branch=master)](https://travis-ci.com/WhatWR/demo-pyci)
+[![Build Status](https://travis-ci.com/your_acctid/demo-pyci.svg?branch=master)](https://travis-ci.com/WhatWR/demo-pyci)    
+[![codecov](https://codecov.io/gh/WhatWR/demo-pyci/branch/main/graph/badge.svg?token=EIQB1177U6)](https://codecov.io/gh/WhatWR/demo-pyci)     
 Continuous Integration Demo
 ============================
    
